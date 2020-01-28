@@ -1,3 +1,2 @@
-# IBM_Cousera_Capstone_Projects
-Am currrently taken a cousera specialization course called IBM AI engineering. It consist of the following course: 1. Machine learning with python; 2. Scalable machine learning on Big data using apache spark; 3. Introduction to deep learning and neural network with keras; 4. Deep neural network with pytorch; 5. Building deep learning models with tensor flow; 6. AI capstone project with deep learning. 
-My intention is to upload all the capstone project for each of the courses here as a way to easily reference my work and to showcase my skills. At the moment, i only have the capstone project from machine learning with python uploaded. 
+#Data-Science_Projects
+This repository contains some of the data science projects i have done.
